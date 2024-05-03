@@ -1,1 +1,2 @@
-alert("hola mundo java ")
+alert("hola mundo java ");
+console.log("Cambios en mi archivo");
